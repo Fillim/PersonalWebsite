@@ -1,0 +1,28 @@
+body{
+	margin:0px;
+}
+.a{
+	margin:80px auto;
+	width:595px;
+	height:448px;
+}
+.c{
+	font-family:"楷体_GB2312";
+	font-size:16px;
+}
+input{
+	width:150px;
+	height:17px;
+	border:1px #0099FF solid;
+}
+.one{
+	width:50px;
+	border:0;
+	background:url(../pic/botton1.jpg);
+}
+.two{
+	width:50px;
+	border:0;
+	background:url(../pic/botton2.jpg);
+}
+
